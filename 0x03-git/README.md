@@ -1,1 +1,1 @@
-It’s time to code!
+my second readme updated
